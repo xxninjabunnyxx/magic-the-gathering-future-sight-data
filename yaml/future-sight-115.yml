@@ -1,0 +1,113 @@
+---
+object: card
+id: a60475e5-0d37-4af0-b717-da4c8dea45ac
+oracle_id: 3479a4e6-c67d-4958-8a47-43d3a2f69bb1
+multiverse_ids:
+- 136044
+mtgo_id: 26816
+mtgo_foil_id: 26817
+tcgplayer_id: 14893
+cardmarket_id: 15107
+name: Ghostfire
+lang: en
+released_at: '2007-05-04'
+uri: https://api.scryfall.com/cards/a60475e5-0d37-4af0-b717-da4c8dea45ac
+scryfall_uri: https://scryfall.com/card/fut/115/ghostfire?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/a/6/a60475e5-0d37-4af0-b717-da4c8dea45ac.jpg?1562928542
+  normal: https://cards.scryfall.io/normal/front/a/6/a60475e5-0d37-4af0-b717-da4c8dea45ac.jpg?1562928542
+  large: https://cards.scryfall.io/large/front/a/6/a60475e5-0d37-4af0-b717-da4c8dea45ac.jpg?1562928542
+  png: https://cards.scryfall.io/png/front/a/6/a60475e5-0d37-4af0-b717-da4c8dea45ac.png?1562928542
+  art_crop: https://cards.scryfall.io/art_crop/front/a/6/a60475e5-0d37-4af0-b717-da4c8dea45ac.jpg?1562928542
+  border_crop: https://cards.scryfall.io/border_crop/front/a/6/a60475e5-0d37-4af0-b717-da4c8dea45ac.jpg?1562928542
+mana_cost: "{2}{R}"
+cmc: 3.0
+type_line: Instant
+oracle_text: |-
+  Ghostfire is colorless.
+  Ghostfire deals 3 damage to any target.
+colors: []
+color_identity:
+- R
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: bf951ddb-4445-4923-87cb-3fe4ac3c6b9a
+set: fut
+set_name: Future Sight
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/bf951ddb-4445-4923-87cb-3fe4ac3c6b9a
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Afut&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/fut?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/a60475e5-0d37-4af0-b717-da4c8dea45ac/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A3479a4e6-c67d-4958-8a47-43d3a2f69bb1&unique=prints
+collector_number: '115'
+digital: false
+rarity: common
+flavor_text: Only those gifted with the eye of Ugin, the spirit dragon, can see his
+  fiery breath.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Cyril Van Der Haegen
+artist_ids:
+- 90edbd2e-9462-4394-b0b4-02885b4e56b3
+illustration_id: 03175630-3cc6-4bed-b27e-dd29a6684346
+border_color: black
+frame: future
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 21461
+penny_rank: 4479
+prices:
+  usd: '0.13'
+  usd_foil: '0.85'
+  usd_etched: 
+  eur: '0.02'
+  eur_foil: '0.44'
+  tix: '0.03'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=136044
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Ghostfire&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Ghostfire&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Ghostfire
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/14893?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Ghostfire&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/26816?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

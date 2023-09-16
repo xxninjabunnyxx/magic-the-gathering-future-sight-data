@@ -1,0 +1,126 @@
+---
+object: card
+id: b242b7dd-a632-4024-a69a-179a63fb93a8
+oracle_id: 244443f0-c92b-4640-88b6-308b0312c8be
+multiverse_ids:
+- 130329
+mtgo_id: 26678
+mtgo_foil_id: 26679
+tcgplayer_id: 14987
+cardmarket_id: 15155
+name: Sliversmith
+lang: en
+released_at: '2007-05-04'
+uri: https://api.scryfall.com/cards/b242b7dd-a632-4024-a69a-179a63fb93a8
+scryfall_uri: https://scryfall.com/card/fut/163/sliversmith?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/b/2/b242b7dd-a632-4024-a69a-179a63fb93a8.jpg?1562930884
+  normal: https://cards.scryfall.io/normal/front/b/2/b242b7dd-a632-4024-a69a-179a63fb93a8.jpg?1562930884
+  large: https://cards.scryfall.io/large/front/b/2/b242b7dd-a632-4024-a69a-179a63fb93a8.jpg?1562930884
+  png: https://cards.scryfall.io/png/front/b/2/b242b7dd-a632-4024-a69a-179a63fb93a8.png?1562930884
+  art_crop: https://cards.scryfall.io/art_crop/front/b/2/b242b7dd-a632-4024-a69a-179a63fb93a8.jpg?1562930884
+  border_crop: https://cards.scryfall.io/border_crop/front/b/2/b242b7dd-a632-4024-a69a-179a63fb93a8.jpg?1562930884
+mana_cost: "{2}"
+cmc: 2.0
+type_line: Artifact Creature — Spellshaper
+oracle_text: "{1}, {T}, Discard a card: Create a 1/1 colorless Sliver artifact creature
+  token named Metallic Sliver."
+power: '1'
+toughness: '1'
+colors: []
+color_identity: []
+keywords: []
+all_parts:
+- object: related_card
+  id: b242b7dd-a632-4024-a69a-179a63fb93a8
+  component: combo_piece
+  name: Sliversmith
+  type_line: Artifact Creature — Spellshaper
+  uri: https://api.scryfall.com/cards/b242b7dd-a632-4024-a69a-179a63fb93a8
+- object: related_card
+  id: 2c7e0d67-b627-4cf7-8f56-e1f0bd75cd5c
+  component: token
+  name: Metallic Sliver
+  type_line: Token Artifact Creature — Sliver
+  uri: https://api.scryfall.com/cards/2c7e0d67-b627-4cf7-8f56-e1f0bd75cd5c
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: bf951ddb-4445-4923-87cb-3fe4ac3c6b9a
+set: fut
+set_name: Future Sight
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/bf951ddb-4445-4923-87cb-3fe4ac3c6b9a
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Afut&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/fut?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/b242b7dd-a632-4024-a69a-179a63fb93a8/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A244443f0-c92b-4640-88b6-308b0312c8be&unique=prints
+collector_number: '163'
+digital: false
+rarity: uncommon
+flavor_text: After centuries of labor, its creations outnumber those they were to
+  mimic.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: John Avon
+artist_ids:
+- 798f3932-30e0-4420-aa3f-db4d613f89ca
+illustration_id: 6bb91fe9-6f74-4413-86c7-3f109d79b78e
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 13559
+penny_rank: 8831
+prices:
+  usd: '0.37'
+  usd_foil: '4.95'
+  usd_etched: 
+  eur: '0.17'
+  eur_foil: '0.95'
+  tix: '0.03'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=130329
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Sliversmith&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Sliversmith&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Sliversmith
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/14987?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Sliversmith&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/26678?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
